@@ -1,2 +1,3 @@
-demo/** linguist-documentation=False
-demo/** linguist-vendored=False
+demo/** linguist-documentation=false
+demo/** linguist-vendored=false
+*.jupyter notebook linguist-vendored=false
